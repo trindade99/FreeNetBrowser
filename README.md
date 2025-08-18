@@ -42,9 +42,9 @@ FreeNet is a step toward reclaiming digital independence by enabling a truly fre
 
 1. Download the latest **Windows** or **macOS** release from the [Releases](./releases) page.  
 2. Launch FreeNet and start exploring the free internet through Reticulum.  
-3. *(Coming soon)* Share your own content by placing `index.html` in the appropriate folder:  
-   - **Windows** → `%AppData%\FreeNet`  
-   - **macOS** → `~/Library/Application Support/FreeNet`  
+3. Share your own content by placing `index.html` in the appropriate folder:  
+   - **Windows** → `%AppData%\FreeNet\config\serverPages`  
+   - **macOS** → `~/Library/Application Support/FreeNet/config/serverPages`  
 
 ---
 
