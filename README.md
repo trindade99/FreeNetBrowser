@@ -31,7 +31,7 @@ FreeNet is a step toward reclaiming digital independence by enabling a truly fre
 
 ## 🚧 Roadmap
 
-- [ ] Source code release  
+- [ ] Source code release  (Give me some time to clean this before releasing under my name :P )
 - [ ] Linux support  
 - [ ] Improved UI/UX  
 - [ ] Plugins/extensions for richer decentralized apps  
