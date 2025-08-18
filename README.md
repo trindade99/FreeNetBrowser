@@ -44,7 +44,9 @@ FreeNet is a step toward reclaiming digital independence by enabling a truly fre
 2. Launch FreeNet and start exploring the free internet through Reticulum.  
 3. Share your own content by placing `index.html` in the appropriate folder:  
    - **Windows** → `%AppData%\FreeNet\config\serverPages`  
-   - **macOS** → `~/Library/Application Support/FreeNet/config/serverPages`  
+   - **macOS** → `~/Library/Application Support/FreeNet/config/serverPages`
+  
+4. In MacOs you will need to give the app an exception to Gatekeeper with `xattr -cr **ApplicationPath**`
 
 ---
 
