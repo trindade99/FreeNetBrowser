@@ -9,12 +9,13 @@ FreeNet is still in active development — the repository currently provides **W
 
 ## 🔥 Key Features
 
+- **Mussoulini Search** - Your Search engine, other freeNet's pages will appear here!
 - **Decentralized Networking** – Built on Reticulum, a resilient peer-to-peer communication stack.  
 - **Cross-Platform** – Runs on both Windows and macOS (Linux support planned).  
 - **Open Source** – Transparent, community-driven development.  
 - **Freedom-Oriented** – No central authorities, no gatekeepers, no dependencies on corporate infrastructure.  
 - **Custom Content Hosting (Planned)** – Add your own `index.html` to your system’s `AppData` (Windows) or `Application Support` (macOS) to host and share with others directly through FreeNet.  
-- **Lightweight & Minimalist** – Designed to be fast, simple, and accessible to everyone.  
+- **Lightweight & Minimalist** – Designed to be fast, simple, and accessible to everyone.
 
 ---
 
@@ -45,7 +46,7 @@ FreeNet is a step toward reclaiming digital independence by enabling a truly fre
 3. Share your own content by placing `index.html` in the appropriate folder:  
    - **Windows** → `%AppData%\FreeNet\config\serverPages`  
    - **macOS** → `~/Library/Application Support/FreeNet/config/serverPages`
-  
+   - **Warning** → Please remember to use `freenet://` to your page, or just add nothing that the app will deal with it for you! Otherwise you will be redirecting to the "conventional" internet!
 4. In MacOs you will need to give the app an exception to Gatekeeper with `xattr -cr **ApplicationPath**`
 
 ---
