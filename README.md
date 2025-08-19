@@ -14,7 +14,7 @@ FreeNet is still in active development — the repository currently provides **W
 - **Cross-Platform** – Runs on both Windows and macOS (Linux support planned).  
 - **Open Source** – Transparent, community-driven development.  
 - **Freedom-Oriented** – No central authorities, no gatekeepers, no dependencies on corporate infrastructure.  
-- **Custom Content Hosting (Planned)** – Add your own `index.html` to your system’s `AppData` (Windows) or `Application Support` (macOS) to host and share with others directly through FreeNet.  
+- **Custom Content Hosting** – Add your own `index.html` to your system’s `AppData` (Windows) or `Application Support` (macOS) to host and share with others directly through FreeNet.  
 - **Lightweight & Minimalist** – Designed to be fast, simple, and accessible to everyone.
 
 ---
